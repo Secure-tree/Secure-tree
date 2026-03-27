@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F79A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Kaushik+%F0%9F%91%8B;Network+%26+Security+Engineer;PhD+Researcher+%7C+AI+Security;Attack+Graph+Risk+Modeler;Building+the+Future+of+CyberSec+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F79A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Kaushik+Muthukumaran+%F0%9F%91%8B;Network+%26+Security+Engineer;PhD+Researcher+%7C+AI+Security;Attack+Graph+Risk+Modeler;Building+the+Future+of+CyberSec+%F0%9F%94%90" alt="Typing SVG" />
 
 <!-- Animated Hacker GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacking Animation"/>
@@ -18,9 +18,11 @@
 
 ```python
 kaushik = {
+    "name"       : "Kaushik Muthukumaran",
     "role"       : "Network & Security Engineer @ MasTec Network Solutions",
     "location"   : "King of Prussia, PA 🇺🇸",
-    "education"  : ["M.S. Cybersecurity — Harrisburg University"]
+    "education"  : ["M.S. Cybersecurity — Harrisburg University",
+                    "PhD Candidate — AI-Driven Cybersecurity Research"],
     "research"   : "AI-Driven Attack Graph Risk Modeling & Automated Vulnerability Remediation",
     "enterprise" : ["Rapid7 InsightVM", "Microsoft Intune", "Entra ID", "PowerShell Automation"],
     "membership" : "ISACA Member",
@@ -28,7 +30,7 @@ kaushik = {
 }
 ```
 
-> *"Security is not a product, it's a process — and AI is the next frontier."* — Kaushik
+> *"Security is not a product, it's a process — and AI is the next frontier."* — Kaushik Muthukumaran
 
 ---
 
@@ -91,7 +93,7 @@ kaushik = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Secure-tree&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Secure-tree&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -131,8 +133,8 @@ kaushik = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-cybersec)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushik@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-muthukumaran-a901612a2)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikrmk01@gmail.com)
 [![ISACA](https://img.shields.io/badge/ISACA-Member-003087?style=for-the-badge&logoColor=white)](https://www.isaca.org)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kaushik)
 
