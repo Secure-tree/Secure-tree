@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacking Animation"/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Secure-tree&color=0e75b6&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Secure-tree&color=00F79A&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Secure-tree?label=Followers&style=social)](https://github.com/Secure-tree)
 
 </div>
@@ -82,8 +82,9 @@ kaushik = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Secure-tree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secure-tree&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Secure-tree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secure-tree&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8"/>
 
 </div>
 
@@ -93,7 +94,17 @@ kaushik = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Secure-tree&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Secure-tree&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Secure-tree&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -114,16 +125,6 @@ kaushik = {
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Secure-tree/Secure-tree/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Secure-tree&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
