@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F79A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Kaushik+Muthukumaran+%F0%9F%91%8B;Network+%26+Security+Engineer;PhD+Researcher+%7C+AI+Security;Attack+Graph+Risk+Modeler;Building+the+Future+of+CyberSec+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F79A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Kaushik+Muthukumaran+%F0%9F%91%8B;Network+%26+Cloud Security+Engineer;Researcher+%7C+AI+Security;Attack+Graph+Risk+Modeler;Building+the+Future+of+CyberSec+%F0%9F%94%90" alt="Typing SVG" />
 
 <!-- Animated Hacker GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacking Animation"/>
