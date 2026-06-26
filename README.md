@@ -22,7 +22,7 @@ kaushik = {
     "role"       : "Network & Security Engineer @ MasTec Network Solutions",
     "location"   : "King of Prussia, PA 🇺🇸",
     "education"  : ["M.S. Cybersecurity — Harrisburg University",
-                    "PhD Candidate — AI-Driven Cybersecurity Research"],
+                    "AI-Driven Cybersecurity Research"],
     "research"   : "AI-Driven Attack Graph Risk Modeling & Automated Vulnerability Remediation",
     "enterprise" : ["Rapid7 InsightVM", "Microsoft Intune", "Entra ID", "PowerShell Automation"],
     "membership" : "ISACA Member",
